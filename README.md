@@ -1,4 +1,8 @@
 # mks66-finalproject
+<div align="center">
+  <img src="https://i.imgur.com/cL0f63x.gif" height="200"/>
+</div>
+
 # George Liang, Kevin Lin
 # Team Blink 183
 # Features
